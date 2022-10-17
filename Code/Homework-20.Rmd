@@ -4,3 +4,12 @@ author: "Anna"
 date: "2022-10-17"
 output: html_document
 ---
+
+Set things up
+```{r}
+rm(list=ls())
+library(dplyr)
+library(ggplot2)
+```
+
+Test line
