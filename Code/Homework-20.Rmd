@@ -1,0 +1,6 @@
+---
+title: "Homework-20.Rmd"
+author: "Anna"
+date: "2022-10-17"
+output: html_document
+---
